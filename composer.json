@@ -1,0 +1,11 @@
+{
+  "name": "grupo02/casillero-transparencia",
+  "description": "Arquitectura PHP estilo Laravel para el Casillero Digital de Transparencia.",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {}
+}

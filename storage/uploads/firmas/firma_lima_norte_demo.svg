@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="180" viewBox="0 0 520 180">
+  <rect width="520" height="180" fill="#ffffff"/>
+  <path d="M42 104 C88 28, 132 152, 180 76 S274 102, 316 70 S392 28, 472 96" fill="none" stroke="#082d5c" stroke-width="7" stroke-linecap="round"/>
+  <path d="M70 128 H450" stroke="#d5a64f" stroke-width="3" stroke-linecap="round"/>
+  <text x="260" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#082d5c" font-weight="700">JUEZ LIMA NORTE</text>
+</svg>
